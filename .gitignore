@@ -1,0 +1,5 @@
+*.a
+lua.h
+luaconf.h
+lualib.h
+lauxlib.h

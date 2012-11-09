@@ -1,0 +1,5 @@
+print(test0())
+print(test1(10))
+print(test2(12, 1))
+print(test3("Hello World"))
+print(test4())
